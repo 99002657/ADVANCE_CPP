@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Downloads/all here/Advance_C++/Coding_Tasks/task_5/Address.h
+Contact.h
+/home/user/Downloads/all here/Advance_C++/Coding_Tasks/task_5/Contact.h
+iostream
+-
+list
+-
+iterator
+-
+
+/home/user/Downloads/all here/Advance_C++/Coding_Tasks/task_5/Contact.h
+iostream
+-
+string
+-
+cstdint
+-
+
+/home/user/Downloads/all here/Advance_C++/Coding_Tasks/task_5/address-test.cpp
+Contact.h
+/home/user/Downloads/all here/Advance_C++/Coding_Tasks/task_5/Contact.h
+Address.h
+/home/user/Downloads/all here/Advance_C++/Coding_Tasks/task_5/Address.h
+gtest/gtest.h
+-
+

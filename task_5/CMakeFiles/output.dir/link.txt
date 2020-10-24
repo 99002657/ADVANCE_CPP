@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/output.dir/address-test.cpp.o  -o output  -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 
